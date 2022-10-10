@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mayuri Kolhe</h1>
 <h3 align="center">A passionate frontend developer from India . Web enthusiast.</h3>
 
-- 🌱 I’m currently learning **frameworks and machine learning.**
+- 🌱 I’m currently learning **frameworks and Problem Solving.**
 
 - 👯 I’m looking to collaborate on **frontend projects and web development projects.**
 
