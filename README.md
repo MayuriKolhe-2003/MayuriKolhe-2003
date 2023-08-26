@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Mayuri Kolhe</h1>
-<h3 align="center">A passionate frontend developer from India . Web enthusiast.</h3>
+<h3 align="center">A passionate web developer from India . Blockchain Enthusiast</h3>
 
-- 🌱 I’m currently learning **frameworks and Problem Solving.**
+- 🌱 I’m currently learning **Full stack development and Problem Solving . **
 
-- 👯 I’m looking to collaborate on **frontend projects and web development projects.**
+- 👯 I’m looking to collaborate on **Frontend projects and web development projects.**
 
-- 💬 Ask me about **frontend,react,php.**
+- 💬 Ask me about **Frontend,react,php.,Node.js**
 
 - 📫 How to reach me **kolhem10@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1jiwMHr55mEirCkNRJjUwAGWagMVODf33/view?usp=sharing](https://drive.google.com/file/d/1jiwMHr55mEirCkNRJjUwAGWagMVODf33/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1XFxx6rCVQlXvYKPCpLFu7D8x4quu-Eun/view?usp=sharing](https://drive.google.com/file/d/1XFxx6rCVQlXvYKPCpLFu7D8x4quu-Eun/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
