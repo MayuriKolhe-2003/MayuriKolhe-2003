@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kolhem10@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1XFxx6rCVQlXvYKPCpLFu7D8x4quu-Eun/view?usp=sharing](https://drive.google.com/file/d/1XFxx6rCVQlXvYKPCpLFu7D8x4quu-Eun/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1G8NYhfUm_tB-mlnsf2k-TU0OKG15FIO5/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
